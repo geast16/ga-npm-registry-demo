@@ -1,8 +1,8 @@
 {
-  "name": "@sidd-harth-7/solar-system",
+  "name": "@geast16/solar-system",
   "version": "6.7.6",
-  "author": "Siddharth Barahalikar <barahalikar.siddharth@gmail.com>",
-  "homepage": "https://www.linkedin.com/in/barahalikar-siddharth/",
+  "author": "Gregory East <gregoryeast1@outlook.com>",
+  "homepage": "https://www.linkedin.com/in/gregoryaeast/",
   "license": "MIT",
   "scripts": {
     "start": "node app.js",
